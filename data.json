@@ -1,0 +1,3785 @@
+{
+  "cc1": {
+    "id": "cc1",
+    "onlineFirst": false,
+    "technology": {
+      "wappalyzer": {
+        "CDN": "Akamai",
+        "JavaScript": {
+          "VueJs": "2.6.11",
+          "Boomerang": "unknown",
+          "HammerJs": "2.0.7"
+        }
+      }
+    },
+    "category": "clothes",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210323,
+          "score": 86,
+          "passedElements": 21,
+          "nonApplicableElements": 17,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210323,
+          "score": 86,
+          "passedElements": 22,
+          "nonApplicableElements": 16,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "date": 210323,
+          "score": 83,
+          "passedElements": 21,
+          "nonApplicableElements": 15,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "ARIA": [
+              "[aria-hidden=”true”] elements contain focuseable descendants"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210323,
+          "score": 78,
+          "passedElements": 20,
+          "nonApplicableElements": 16,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name",
+              "<frame> or <iframe> elements do not have a title"
+            ],
+            "ARIA": ["ARIA IDs are not unique"]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210323,
+          "score": 82,
+          "passedElements": 20,
+          "nonApplicableElements": 15,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-hidden=”true”] elements contain focuseable descendants"
+            ],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "cc2": {
+    "id": "cc2",
+    "onlineFirst": false,
+    "technology": {
+      "wappalyzer": {
+        "CDN": "Akamai",
+        "JavaScript": {
+          "jQuery": "2.0.3",
+          "Boomerang": "unknown",
+          "jQueryUI": "1.11.4",
+          "AngularJS": "unknown"
+        }
+      }
+    },
+    "category": "clothes",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "score": 94,
+          "date": 210323,
+          "passedElements": 24,
+          "nonApplicableElements": 16,
+          "encounteredErrors": {
+            "namesAndLabels": ["Image elements do not have [alt] attributes"]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "score": 93,
+          "date": 210323,
+          "passedElements": 24,
+          "nonApplicableElements": 15,
+          "encounteredErrors": {
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "namesAndLabels": ["Image elements do not have [alt] attributes"]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "score": 89,
+          "date": 210323,
+          "passedElements": 24,
+          "nonApplicableElements": 13,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-hidden=”true”] elements contain focuseable descendants"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "namesAndLabels": ["Image elements do not have [alt] attributes"],
+            "tablesAndLists": [
+              "List items (<li>) are not contained within <ul> or <ol> parent elements"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "score": 87,
+          "date": 210323,
+          "passedElements": 23,
+          "nonApplicableElements": 15,
+          "encounteredErrors": {
+            "ARIA": ["ARIA IDs are not unique"],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "namesAndLabels": ["Image elements do not have [alt] attributes"]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "score": 88,
+          "date": 210323,
+          "passedElements": 25,
+          "nonApplicableElements": 14,
+          "encounteredErrors": {
+            "ARIA": ["ARIA IDs are not unique"],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "namesAndLabels": ["Image elements do not have [alt] attributes"]
+          }
+        }
+      }
+    }
+  },
+  "cc3": {
+    "id": "cc3",
+    "onlineFirst": false,
+    "technology": {
+      "wappalyzer": {
+        "CDN": "Azure CDN",
+        "JavaScript": {
+          "jQuery": "1.10.2",
+          "jQueryUI": "1.12.1",
+          "Modernizr": "2.7.1",
+          "Polyfill": "unknown",
+          "requireJS": "2.1.14",
+          "Handlebars": "1.3.0"
+        }
+      }
+    },
+    "category": "clothes",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "score": 63,
+          "date": 210323,
+          "passedElements": 17,
+          "nonApplicableElements": 14,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-hidden=”true”] elements contain focuseable descendants",
+              "ARIA input fields do not have accessible names",
+              "[aria-*] attributes do not have valid values"
+            ],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "score": 65,
+          "date": 210323,
+          "passedElements": 17,
+          "nonApplicableElements": 16,
+          "encounteredErrors": {
+            "ARIA": ["[aria-*] attributes do not have valid values"],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "score": 53,
+          "date": 210323,
+          "passedElements": 14,
+          "nonApplicableElements": 14,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-hidden=”true”] elements contain focuseable descendants",
+              "ARIA input fields do not have accessible names",
+              "[aria-*] attributes do not have valid values",
+              "Elements with an ARIA [role] that require children to contain a specific [role] are missing some or all of those required children"
+            ],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Document doesn't have a <title> element",
+              "Image elements do not have [alt] attributes",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "score": 63,
+          "date": 210323,
+          "passedElements": 16,
+          "nonApplicableElements": 16,
+          "encounteredErrors": {
+            "ARIA": ["[aria-*] attributes do not have valid values"],
+            "namesAndLabels": [
+              "Links do not have a discernible name",
+              "Form elements do not have associated labels",
+              "Image elements do not have [alt] attributes",
+              "Buttons do not have an accessible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "score": 71,
+          "date": 210323,
+          "passedElements": 18,
+          "nonApplicableElements": 16,
+          "encounteredErrors": {
+            "ARIA": ["[aria-*] attributes do not have valid values"],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Form elements do not have associated labels"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "cc4": {
+    "id": "cc4",
+    "onlineFirst": false,
+    "technology": {
+      "wappalyzer": {
+        "CDN": "Cloudflare",
+        "eCommerce": "Salesforce Commerce Cloud",
+        "JavaScript": { "jQuery": "2.2.4" }
+      }
+    },
+    "category": "clothes",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "score": 73,
+          "date": 210323,
+          "passedElements": 19,
+          "nonApplicableElements": 16,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "score": 72,
+          "date": 210323,
+          "passedElements": 18,
+          "nonApplicableElements": 17,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "score": 82,
+          "date": 210323,
+          "passedElements": 19,
+          "nonApplicableElements": 17,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "score": 74,
+          "date": 210323,
+          "passedElements": 16,
+          "nonApplicableElements": 21,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "score": 79,
+          "date": 210323,
+          "passedElements": 16,
+          "nonApplicableElements": 20,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "cc5": {
+    "id": "cc5",
+    "onlineFirst": false,
+    "technology": {
+      "wappalyzer": {
+        "eCommerce": "Intershop",
+        "JavaScript": {
+          "AngularJS": "1.6.9",
+          "Lodash": "4.17.4",
+          "HammerJs": "2.0.7",
+          "jQuery": "3.3.1"
+        }
+      }
+    },
+    "category": "clothes",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "score": 71,
+          "date": 210323,
+          "passedElements": 19,
+          "nonApplicableElements": 15,
+          "encounteredErrors": {
+            "ARIA": [
+              "ARIA input fields do not have accessible names",
+              "[aria-*] attributes do not have valid values"
+            ],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "score": 77,
+          "date": 210323,
+          "passedElements": 20,
+          "nonApplicableElements": 15,
+          "encounteredErrors": {
+            "ARIA": [
+              "ARIA input fields do not have accessible names",
+              "[aria-*] attributes do not have valid values"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "namesAndLabels": [
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "score": 68,
+          "date": 210323,
+          "passedElements": 18,
+          "nonApplicableElements": 14,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-hidden=”true”] elements contain focuseable descendants",
+              "ARIA input fields do not have accessible names"
+            ],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "score": 71,
+          "date": 210323,
+          "passedElements": 19,
+          "nonApplicableElements": 15,
+          "encounteredErrors": {
+            "ARIA": [
+              "ARIA input fields do not have accessible names",
+              "[aria-*] attributes do not have valid values"
+            ],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "score": 100,
+          "date": 210323,
+          "passedElements": 26,
+          "nonApplicableElements": 15,
+          "encounteredErrors": {}
+        }
+      }
+    }
+  },
+  "cc6": {
+    "id": "cc6",
+    "onlineFirst": true,
+    "technology": {
+      "wappalyzer": {
+        "CDN": "Cloudflare",
+        "JavaScript": {
+          "jQueryUI": "1.11.2",
+          "jQuery": "2.1.1",
+          "jQueryMigrate": "unknown",
+          "HammerJs": "2.0.4",
+          "Flickity": "unknown"
+        },
+        "UI": {
+          "Bootstrap": "3.3.1"
+        }
+      }
+    },
+    "category": "clothes",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210324,
+          "score": 66,
+          "passedElements": 16,
+          "nonApplicableElements": 15,
+          "encounteredErrors": {
+            "ARIA": ["[aria-*] attributes do not match their roles"],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order",
+              "[id] attributes on active, focusable elements are not unique"
+            ],
+            "tablesAndLists": [
+              "Lists do not contain only <li> elements and script supporting elements (<script> and <template>)"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210324,
+          "score": 69,
+          "passedElements": 17,
+          "nonApplicableElements": 17,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          },
+          "note": "This result may be wrong. Site load was very slow."
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "date": 210324,
+          "score": 66,
+          "passedElements": 20,
+          "nonApplicableElements": 12,
+          "encounteredErrors": {
+            "ARIA": ["[role] values are not valid"],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "[id] attributes on active, focusable elements are not unique",
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210324,
+          "score": 75,
+          "passedElements": 21,
+          "nonApplicableElements": 14,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210324,
+          "score": 70,
+          "passedElements": 18,
+          "nonApplicableElements": 16,
+          "encounteredErrors": {
+            "ARIA": ["[aria-*] attributes do not match their roles"],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "<frame> or <iframe> elements do not have a title",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "cc7": {
+    "id": "cc7",
+    "onlineFirst": true,
+    "technology": {
+      "wappalyzer": {
+        "CDN": "Akamai",
+        "JavaScript": {
+          "requireJS": "2.2.0",
+          "Boomerang": "unknown",
+          "jQuery": "1.12.3",
+          "ReactJS": "16.2.1"
+        }
+      }
+    },
+    "category": "clothes",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210324,
+          "score": 89,
+          "passedElements": 20,
+          "nonApplicableElements": 18,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-hidden=”true”] elements contain focuseable descendants"
+            ],
+            "navigation": [
+              "[id] attributes on active, focusable elements are not unique"
+            ],
+            "namesAndLabels": ["Image elements do not have [alt] attributes"]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210324,
+          "score": 83,
+          "passedElements": 20,
+          "nonApplicableElements": 17,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-hidden=”true”] elements contain focuseable descendants",
+              "ARIA IDs are not unique"
+            ],
+            "namesAndLabels": ["Buttons do not have an accessible name"],
+            "navigation": [
+              "[id] attributes on active, focusable elements are not unique"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "date": 210324,
+          "score": 74,
+          "passedElements": 20,
+          "nonApplicableElements": 14,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-hidden=”true”] elements contain focuseable descendants",
+              "[aria-*] attributes are not valid or misspelled",
+              "ARIA IDs are not unique"
+            ],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Form elements do not have associated labels"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "[id] attributes on active, focusable elements are not unique"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210324,
+          "score": 83,
+          "passedElements": 19,
+          "nonApplicableElements": 18,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-hidden=”true”] elements contain focuseable descendants",
+              "ARIA IDs are not unique"
+            ],
+            "namesAndLabels": ["Buttons do not have an accessible name"],
+            "navigation": [
+              "[id] attributes on active, focusable elements are not unique"
+            ]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210324,
+          "score": 80,
+          "passedElements": 19,
+          "nonApplicableElements": 16,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-hidden=”true”] elements contain focuseable descendants",
+              "ARIA input fields do not have accessible names",
+              "ARIA IDs are not unique"
+            ],
+            "namesAndLabels": ["Buttons do not have an accessible name"],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "[id] attributes on active, focusable elements are not unique"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "cc8": {
+    "id": "cc8",
+    "onlineFirst": true,
+    "technology": {
+      "wappalyzer": {
+        "CDN": "Akamai",
+        "JavaScript": { "requireJS": "2.1.22", "ReactJS": "16.8.6" }
+      }
+    },
+    "category": "clothes",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210324,
+          "score": 97,
+          "passedElements": 25,
+          "nonApplicableElements": 14,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210324,
+          "score": 76,
+          "passedElements": 20,
+          "nonApplicableElements": 14,
+          "encounteredErrors": {
+            "ARIA": ["[aria-*] attributes do not have valid values"],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "<frame> or <iframe> elements do not have a title",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "didSucceed": false,
+          "date": 210324,
+          "score": 84,
+          "passedElements": 23,
+          "nonApplicableElements": 13,
+          "encounteredErrors": {
+            "ARIA": ["[aria-*] attributes do not have valid values"],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "<frame> or <iframe> elements do not have a title"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210324,
+          "score": 76,
+          "passedElements": 20,
+          "nonApplicableElements": 14,
+          "encounteredErrors": {
+            "ARIA": ["[aria-*] attributes do not have valid values"],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "<frame> or <iframe> elements do not have a title",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210324,
+          "score": 92,
+          "passedElements": 23,
+          "nonApplicableElements": 16,
+          "encounteredErrors": {
+            "ARIA": ["[aria-*] attributes do not have valid values"],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "cc9": {
+    "id": "cc9",
+    "onlineFirst": true,
+    "technology": {
+      "wappalyzer": {
+        "JavaScript": {
+          "requireJS": "2.1.14",
+          "Stimulus": "unknown",
+          "jQuery": "1.11.1",
+          "jQueryUI": "1.10.3",
+          "jQueryMigrate": "unknown"
+        }
+      }
+    },
+    "category": "clothes",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210324,
+          "score": 72,
+          "passedElements": 13,
+          "nonApplicableElements": 24,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210324,
+          "score": 69,
+          "passedElements": 13,
+          "nonApplicableElements": 23,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "<frame> or <iframe> elements do not have a title",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "date": 210324,
+          "score": 59,
+          "passedElements": 12,
+          "nonApplicableElements": 23,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "<frame> or <iframe> elements do not have a title",
+              "Image elements do not have [alt] attributes",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210324,
+          "score": 69,
+          "passedElements": 13,
+          "nonApplicableElements": 23,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "<frame> or <iframe> elements do not have a title",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210324,
+          "score": 72,
+          "passedElements": 17,
+          "nonApplicableElements": 18,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "<frame> or <iframe> elements do not have a title",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "cc10": {
+    "id": "cc10",
+    "onlineFirst": true,
+    "technology": {
+      "wappalyzer": {
+        "CDN": "Cloudflare",
+        "JavaScript": {
+          "jQueryUI": "1.11.4",
+          "jQuery": "1.7.2",
+          "Modernizr": "2.8.3",
+          "FingerprintJS": "1.1.4",
+          "Stimulus": "unknown",
+          "ReactJS": "16.9.0"
+        }
+      }
+    },
+    "category": "clothes",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210324,
+          "score": 86,
+          "passedElements": 17,
+          "nonApplicableElements": 19,
+          "encounteredErrors": {
+            "navigation": [
+              "The page does not contain a heading, skip link, or landmark region",
+              "[id] attributes on active, focusable elements are not unique"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "namesAndLabels": [
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210324,
+          "score": 82,
+          "passedElements": 18,
+          "nonApplicableElements": 18,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "[id] attributes on active, focusable elements are not unique"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "date": 210324,
+          "score": 82,
+          "passedElements": 18,
+          "nonApplicableElements": 18,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "[id] attributes on active, focusable elements are not unique"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210324,
+          "score": 88,
+          "passedElements": 19,
+          "nonApplicableElements": 18,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "[id] attributes on active, focusable elements are not unique"
+            ],
+            "namesAndLabels": [
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210324,
+          "score": 78,
+          "passedElements": 15,
+          "nonApplicableElements": 20,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "navigation": [
+              "The page does not contain a heading, skip link, or landmark region",
+              "[id] attributes on active, focusable elements are not unique"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "tc1": {
+    "id": "tc1",
+    "onlineFirst": false,
+    "technology": {
+      "wappalyzer": {
+        "eCommerce": "Intershop",
+        "JavaScript": {
+          "jQuery": "2.2.4",
+          "backboneJs": "1.3.2",
+          "underscoreJs": "unknown",
+          "Modernizr": "2.7.0",
+          "Boomerang": "unknown"
+        },
+        "CDN": "Akamai"
+      }
+    },
+    "category": "technology",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 85,
+          "passedElements": 19,
+          "nonApplicableElements": 19,
+          "encounteredErrors": {
+            "ARIA": ["ARIA input fields do not have accessible names"],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "namesAndLabels": [
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ],
+            "navigation": [
+              "Some elements have a [tabindex] value greater than 0"
+            ]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 84,
+          "passedElements": 19,
+          "nonApplicableElements": 18,
+          "encounteredErrors": {
+            "ARIA": ["ARIA input fields do not have accessible names"],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order",
+              "Some elements have a [tabindex] value greater than 0"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "namesAndLabels": [
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 67,
+          "passedElements": 19,
+          "nonApplicableElements": 15,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-*] attributes do not match their roles",
+              "[aria-hidden=”true”] elements contain focuseable descendants",
+              "ARIA input fields do not have accessible names",
+              "Elements with an ARIA [role] that require children to contain a specific [role] are missing some or all of those required children",
+              "[aria-*] attributes do not have valid values"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "namesAndLabels": [
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ],
+            "navigation": [
+              "Some elements have a [tabindex] value greater than 0"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 85,
+          "passedElements": 18,
+          "nonApplicableElements": 20,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order",
+              "Some elements have a [tabindex] value greater than 0"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "namesAndLabels": [
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 90,
+          "passedElements": 20,
+          "nonApplicableElements": 21,
+          "encounteredErrors": {
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "namesAndLabels": ["Form elements do not have associated labels"],
+            "navigation": [
+              "Some elements have a [tabindex] value greater than 0"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "tc2": {
+    "id": "tc2",
+    "onlineFirst": false,
+    "technology": {
+      "wappalyzer": {
+        "JavaScript": { "jQuery": "3.4.1" },
+        "UI": { "Bootstrap": "3.3.4" }
+      }
+    },
+    "category": "technology",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 60,
+          "passedElements": 13,
+          "nonApplicableElements": 22,
+          "encounteredErrors": {
+            "ARIA": [
+              "Elements with an ARIA [role] that require children to contain a specific [role] are missing some or all of those required children"
+            ],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order",
+              "Some elements have a [tabindex] value greater than 0"
+            ],
+            "tablesAndLists": [
+              "List items (<li>) are not contained within <ul> or <ol> parent elements"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 68,
+          "passedElements": 17,
+          "nonApplicableElements": 18,
+          "encounteredErrors": {
+            "ARIA": [
+              "Elements with an ARIA [role] that require children to contain a specific [role] are missing some or all of those required children"
+            ],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order",
+              "Some elements have a [tabindex] value greater than 0"
+            ],
+            "tablesAndLists": [
+              "List items (<li>) are not contained within <ul> or <ol> parent elements"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 59,
+          "passedElements": 13,
+          "nonApplicableElements": 21,
+          "encounteredErrors": {
+            "ARIA": [
+              "Elements with an ARIA [role] that require children to contain a specific [role] are missing some or all of those required children"
+            ],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "[id] attributes on active, focusable elements are not unique",
+              "Heading elements are not in a sequentially-descending order",
+              "Some elements have a [tabindex] value greater than 0"
+            ],
+            "tablesAndLists": [
+              "List items (<li>) are not contained within <ul> or <ol> parent elements"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 68,
+          "passedElements": 17,
+          "nonApplicableElements": 18,
+          "encounteredErrors": {
+            "ARIA": [
+              "Elements with an ARIA [role] that require children to contain a specific [role] are missing some or all of those required children"
+            ],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order",
+              "Some elements have a [tabindex] value greater than 0"
+            ],
+            "tablesAndLists": [
+              "List items (<li>) are not contained within <ul> or <ol> parent elements"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 90,
+          "passedElements": 22,
+          "nonApplicableElements": 19,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "namesAndLabels": ["Links do not have a discernible name"],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "tc3": {
+    "id": "tc3",
+    "onlineFirst": false,
+    "technology": {
+      "wappalyzer": {
+        "CDN": "jsDelivr",
+        "JavaScript": {
+          "Handlebars": "4.0.5",
+          "jQueryUI": "1.12.1",
+          "Select2": "unknown",
+          "HammerJs": "2.0.4",
+          "jQuery": "1.11.3",
+          "slick": "unknown"
+        }
+      }
+    },
+    "category": "technology",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 81,
+          "passedElements": 18,
+          "nonApplicableElements": 20,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 66,
+          "passedElements": 14,
+          "nonApplicableElements": 21,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "[id] attributes on active, focusable elements are not unique",
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "tablesAndLists": [
+              "Lists do not contain only <li> elements and script supporting elements (<script> and <template>)"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 82,
+          "passedElements": 20,
+          "nonApplicableElements": 18,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 68,
+          "passedElements": 15,
+          "nonApplicableElements": 21,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "tablesAndLists": [
+              "Lists do not contain only <li> elements and script supporting elements (<script> and <template>)"
+            ]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 58,
+          "passedElements": 10,
+          "nonApplicableElements": 26,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "namesAndLabels": [
+              "Image elements do not have [alt] attributes",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "tablesAndLists": [
+              "Lists do not contain only <li> elements and script supporting elements (<script> and <template>)",
+              "List items (<li>) are not contained within <ul> or <ol> parent elements"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "tc4": {
+    "id": "tc4",
+    "onlineFirst": false,
+    "technology": {
+      "wappalyzer": {
+        "eCommerce": "Magento",
+        "JavaScript": {
+          "requireJS": "2.1.11",
+          "momentJs": "unknown",
+          "Polyfill": "unknown",
+          "slick": "unknown",
+          "underscoreJs": "1.8.2",
+          "jQuery": "1.12.4",
+          "jQueryMigrate": "1.4.1",
+          "jQueryUI": "1.10.4"
+        },
+        "UI": { "Bootstrap": "unknown" },
+        "CDN": "Cloudflare"
+      }
+    },
+    "category": "technology",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 85,
+          "passedElements": 22,
+          "nonApplicableElements": 18,
+          "encounteredErrors": {
+            "ARIA": [
+              "[roles] do not have all required [aria-*] attributes",
+              "ARIA IDs are not unique"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "namesAndLabels": ["Links do not have a discernible name"]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 75,
+          "passedElements": 20,
+          "nonApplicableElements": 16,
+          "encounteredErrors": {
+            "ARIA": [
+              "button, link and menuitem elements do not have accessible names",
+              "ARIA input fields do not have accessible names",
+              "[roles] do not have all required [aria-*] attributes",
+              "ARIA IDs are not unique"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "namesAndLabels": [
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 79,
+          "passedElements": 21,
+          "nonApplicableElements": 17,
+          "encounteredErrors": {
+            "ARIA": [
+              "[roles] do not have all required [aria-*] attributes",
+              "ARIA IDs are not unique"
+            ],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 75,
+          "passedElements": 20,
+          "nonApplicableElements": 16,
+          "encounteredErrors": {
+            "ARIA": [
+              "button, link and menuitem elements do not have accessible names",
+              "ARIA input fields do not have accessible names",
+              "[roles] do not have all required [aria-*] attributes",
+              "ARIA IDs are not unique"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "namesAndLabels": [
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 79,
+          "passedElements": 23,
+          "nonApplicableElements": 16,
+          "encounteredErrors": {
+            "ARIA": [
+              "[roles] do not have all required [aria-*] attributes",
+              "ARIA IDs are not unique"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "namesAndLabels": [
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "tc5": {
+    "id": "tc5",
+    "onlineFirst": false,
+    "technology": {
+      "wappalyzer": {
+        "eCommerce": "SAP Commerce Cloud",
+        "JavaScript": { "jQueryUI": "1.12.1", "jQuery": "3.5.1" },
+        "UI": { "Bootstrap": "3.4.1" }
+      }
+    },
+    "category": "technology",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 81,
+          "passedElements": 21,
+          "nonApplicableElements": 17,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-hidden=”true”] elements contain focuseable descendants"
+            ],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "[id] attributes on active, focusable elements are not unique"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 82,
+          "passedElements": 19,
+          "nonApplicableElements": 20,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "tablesAndLists": [
+              "Lists do not contain only <li> elements and script supporting elements (<script> and <template>)"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 77,
+          "passedElements": 18,
+          "nonApplicableElements": 20,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 76,
+          "passedElements": 18,
+          "nonApplicableElements": 20,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "ARIA": ["ARIA IDs are not unique"],
+            "tablesAndLists": [
+              "Lists do not contain only <li> elements and script supporting elements (<script> and <template>)"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 78,
+          "passedElements": 19,
+          "nonApplicableElements": 20,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "tc6": {
+    "id": "tc6",
+    "onlineFirst": true,
+    "technology": {
+      "wappalyzer": {
+        "CDN": "Cloudflare",
+        "JavaScript": {
+          "KnockoutJS": "3.1.0",
+          "jQuery": "1.10.2",
+          "jQueryUI": "unknown"
+        }
+      }
+    },
+    "category": "technology",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 90,
+          "passedElements": 22,
+          "nonApplicableElements": 19,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "namesAndLabels": [
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 83,
+          "passedElements": 22,
+          "nonApplicableElements": 17,
+          "encounteredErrors": {
+            "ARIA": [
+              "ARIA input fields do not have accessible names",
+              "ARIA IDs are not unique"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "namesAndLabels": [
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 89,
+          "passedElements": 21,
+          "nonApplicableElements": 19,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 87,
+          "passedElements": 24,
+          "nonApplicableElements": 17,
+          "encounteredErrors": {
+            "ARIA": [
+              "ARIA input fields do not have accessible names",
+              "ARIA IDs are not unique"
+            ],
+            "namesAndLabels": ["Form elements do not have associated labels"]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 86,
+          "passedElements": 23,
+          "nonApplicableElements": 18,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "tc7": {
+    "id": "tc7",
+    "onlineFirst": true,
+    "technology": {
+      "wappalyzer": {
+        "CDN": "Akamai",
+        "JavaScript": {
+          "jQuery": "2.1.4",
+          "HammerJs": "unknown",
+          "Boomerang": "unknown",
+          "Polyfill": "unknown",
+          "requireJS": "2.1.22",
+          "KnockoutJS": "3.4.2"
+        }
+      }
+    },
+    "category": "technology",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 80,
+          "passedElements": 21,
+          "nonApplicableElements": 19,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-*] attributes are not valid or misspelled",
+              "ARIA IDs are not unique"
+            ],
+            "namesAndLabels": [
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 84,
+          "passedElements": 21,
+          "nonApplicableElements": 19,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-hidden=”true”] elements contain focuseable descendants",
+              "[aria-*] attributes are not valid or misspelled"
+            ],
+            "namesAndLabels": [
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 81,
+          "passedElements": 21,
+          "nonApplicableElements": 17,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-hidden=”true”] elements contain focuseable descendants",
+              "[aria-*] attributes are not valid or misspelled"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "namesAndLabels": [
+              "<frame> or <iframe> elements do not have a title",
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 80,
+          "passedElements": 21,
+          "nonApplicableElements": 19,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-*] attributes are not valid or misspelled",
+              "ARIA IDs are not unique"
+            ],
+            "namesAndLabels": [
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 86,
+          "passedElements": 23,
+          "nonApplicableElements": 18,
+          "encounteredErrors": {
+            "ARIA": ["[aria-*] attributes are not valid or misspelled"],
+            "namesAndLabels": [
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "tc8": {
+    "id": "tc8",
+    "onlineFirst": true,
+    "technology": {
+      "wappalyzer": {
+        "CDN": "Akamai",
+        "JavaScript": { "Svelte": "unknown", "Boomerang": "unknown" }
+      }
+    },
+    "category": "technology",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 96,
+          "passedElements": 20,
+          "nonApplicableElements": 22,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "namesAndLabels": ["Links do not have a discernible name"]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 96,
+          "passedElements": 23,
+          "nonApplicableElements": 19,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "namesAndLabels": ["Links do not have a discernible name"]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 96,
+          "passedElements": 23,
+          "nonApplicableElements": 19,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "namesAndLabels": ["Links do not have a discernible name"]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 96,
+          "passedElements": 23,
+          "nonApplicableElements": 19,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "namesAndLabels": ["Links do not have a discernible name"]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 97,
+          "passedElements": 16,
+          "nonApplicableElements": 27,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "tc9": {
+    "id": "tc9",
+    "onlineFirst": true,
+    "technology": {
+      "wappalyzer": {
+        "CDN": "Cloudflare",
+        "JavaScript": { "VueJs": "2.5.17", "HammerJs": "2.0.7" }
+      }
+    },
+    "category": "technology",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 87,
+          "passedElements": 18,
+          "nonApplicableElements": 23,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "namesAndLabels": [
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 79,
+          "passedElements": 17,
+          "nonApplicableElements": 23,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "namesAndLabels": [
+              "Image elements do not have [alt] attributes",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 76,
+          "passedElements": 20,
+          "nonApplicableElements": 17,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-*] attributes do not match their roles",
+              "[aria-hidden=”true”] elements contain focuseable descendants",
+              "Elements with an ARIA [role] that require children to contain a specific [role] are missing some or all of those required children"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "namesAndLabels": [
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 78,
+          "passedElements": 16,
+          "nonApplicableElements": 23,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "namesAndLabels": [
+              "Image elements do not have [alt] attributes",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 79,
+          "passedElements": 17,
+          "nonApplicableElements": 23,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "tc10": {
+    "id": "tc10",
+    "onlineFirst": true,
+    "technology": {
+      "wappalyzer": {
+        "CDN": "Cloudflare",
+        "JavaScript": { "jQuery": "3.5.1", "ReactJS": "17.0.1" }
+      }
+    },
+    "category": "technology",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 78,
+          "passedElements": 20,
+          "nonApplicableElements": 19,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 84,
+          "passedElements": 22,
+          "nonApplicableElements": 18,
+          "encounteredErrors": {
+            "namesAndLabels": ["Buttons do not have an accessible name"],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 86,
+          "passedElements": 25,
+          "nonApplicableElements": 15,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 84,
+          "passedElements": 22,
+          "nonApplicableElements": 18,
+          "encounteredErrors": {
+            "namesAndLabels": ["Buttons do not have an accessible name"],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210325,
+          "score": 87,
+          "passedElements": 25,
+          "nonApplicableElements": 16,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "namesAndLabels": ["Form elements do not have associated labels"],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "hc1": {
+    "id": "hc1",
+    "onlineFirst": false,
+    "technology": {
+      "wappalyzer": {
+        "eCommerce": "Klevu",
+        "CDN": "Amazon Cloudfront",
+        "JavaScript": {
+          "Gatsby": "2.32.4",
+          "Polyfill": "unknown",
+          "MobX": "unknown",
+          "Lodash": "4.17.20",
+          "ReactJS": "16.14.0"
+        }
+      }
+    },
+    "category": "health",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 82,
+          "passedElements": 15,
+          "nonApplicableElements": 22,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "tablesAndLists": [
+              "Lists do not contain only <li> elements and script supporting elements (<script> and <template>)"
+            ]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 73,
+          "passedElements": 16,
+          "nonApplicableElements": 21,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Links do not have a discernible name",
+              "Image elements do not have [alt] attributes"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "tablesAndLists": [
+              "Lists do not contain only <li> elements and script supporting elements (<script> and <template>)"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 83,
+          "passedElements": 18,
+          "nonApplicableElements": 19,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "<frame> or <iframe> elements do not have a title",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "tablesAndLists": [
+              "Lists do not contain only <li> elements and script supporting elements (<script> and <template>)"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 74,
+          "passedElements": 16,
+          "nonApplicableElements": 21,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "tablesAndLists": [
+              "Lists do not contain only <li> elements and script supporting elements (<script> and <template>)"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 72,
+          "passedElements": 12,
+          "nonApplicableElements": 26,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "namesAndLabels": [
+              "<frame> or <iframe> elements do not have a title",
+              "Image elements do not have [alt] attributes"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "hc2": {
+    "id": "hc2",
+    "onlineFirst": false,
+    "technology": {
+      "wappalyzer": {
+        "CDN": "Azure CDN",
+        "UI": { "Bootstrap": "3.3.7" },
+        "JavaScript": {
+          "jQueryUI": "1.12.1",
+          "jQuery": "1.9.1",
+          "AngularJS": "1.7.9",
+          "SocketIO": "unknown"
+        }
+      }
+    },
+    "category": "health",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 52,
+          "passedElements": 8,
+          "nonApplicableElements": 29,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 65,
+          "passedElements": 10,
+          "nonApplicableElements": 28,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 58,
+          "passedElements": 12,
+          "nonApplicableElements": 25,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 62,
+          "passedElements": 9,
+          "nonApplicableElements": 28,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "[id] attributes on active, focusable elements are not unique",
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 68,
+          "passedElements": 13,
+          "nonApplicableElements": 25,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "namesAndLabels": [
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "hc3": {
+    "id": "hc3",
+    "onlineFirst": false,
+    "technology": {
+      "wappalyzer": {
+        "UI": { "Bootstrap": "3.3.6" },
+        "JavaScript": { "jQuery": "1.11.1" }
+      }
+    },
+    "category": "health",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 78,
+          "passedElements": 14,
+          "nonApplicableElements": 26,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 77,
+          "passedElements": 16,
+          "nonApplicableElements": 23,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Document doesn't have a <title> element",
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 76,
+          "passedElements": 17,
+          "nonApplicableElements": 22,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 81,
+          "passedElements": 17,
+          "nonApplicableElements": 24,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 54,
+          "passedElements": 9,
+          "nonApplicableElements": 30,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "hc4": {
+    "id": "hc4",
+    "onlineFirst": false,
+    "technology": {
+      "wappalyzer": {
+        "JavaScript": {
+          "backboneJs": "1.1.2",
+          "jQuery": "1.11.1",
+          "Modernizr": "2.8.3",
+          "underscoreJs": "unknown",
+          "MarionetteJS": "2.2.0"
+        }
+      }
+    },
+    "category": "health",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 100,
+          "passedElements": 17,
+          "nonApplicableElements": 27,
+          "encounteredErrors": {}
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 97,
+          "passedElements": 16,
+          "nonApplicableElements": 27,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 100,
+          "passedElements": 17,
+          "nonApplicableElements": 27,
+          "encounteredErrors": {}
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 91,
+          "passedElements": 17,
+          "nonApplicableElements": 26,
+          "encounteredErrors": {
+            "namesAndLabels": ["Form elements do not have associated labels"]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 98,
+          "passedElements": 20,
+          "nonApplicableElements": 23,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "hc5": {
+    "id": "hc5",
+    "onlineFirst": false,
+    "technology": {
+      "wappalyzer": {
+        "eCommerce": "SAP Commerce Cloud",
+        "UI": { "Bootstrap": "3.3.5" },
+        "JavaScript": {
+          "ChartJS": "unknown",
+          "VueJs": "2.6.11",
+          "jQueryUI": "1.11.4",
+          "jQuery": "1.11.3",
+          "momentJS": "2.14.1"
+        }
+      }
+    },
+    "category": "health",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 65,
+          "passedElements": 19,
+          "nonApplicableElements": 16,
+          "encounteredErrors": {
+            "ARIA": ["[aria-*] attributes do not have valid values"],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "tablesAndLists": [
+              "Lists do not contain only <li> elements and script supporting elements (<script> and <template>)"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 60,
+          "passedElements": 18,
+          "nonApplicableElements": 17,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-*] attributes are not valid or misspelled",
+              "[aria-*] attributes do not have valid values"
+            ],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "tablesAndLists": [
+              "Lists do not contain only <li> elements and script supporting elements (<script> and <template>)"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 58,
+          "passedElements": 18,
+          "nonApplicableElements": 15,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-*] attributes do not have valid values",
+              "[aria-*] attributes are not valid or misspelled"
+            ],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order",
+              "Some elements have a [tabindex] value greater than 0"
+            ],
+            "tablesAndLists": [
+              "Lists do not contain only <li> elements and script supporting elements (<script> and <template>)"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 65,
+          "passedElements": 19,
+          "nonApplicableElements": 17,
+          "encounteredErrors": {
+            "ARIA": ["[aria-*] attributes do not have valid values"],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "tablesAndLists": [
+              "Lists do not contain only <li> elements and script supporting elements (<script> and <template>)"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 64,
+          "passedElements": 19,
+          "nonApplicableElements": 15,
+          "encounteredErrors": {
+            "ARIA": ["[aria-*] attributes do not have valid values"],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order",
+              "Some elements have a [tabindex] value greater than 0"
+            ],
+            "tablesAndLists": [
+              "Lists do not contain only <li> elements and script supporting elements (<script> and <template>)"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "hc6": {
+    "id": "hc6",
+    "onlineFirst": true,
+    "technology": {
+      "wappalyzer": {
+        "CDN": "Cloudflare",
+        "JavaScript": { "jQueryUI": "1.10.3", "jQuery": "1.11.2" }
+      }
+    },
+    "category": "health",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 78,
+          "passedElements": 16,
+          "nonApplicableElements": 23,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "namesAndLabels": [
+              "Image elements do not have [alt] attributes",
+              "<input type=image> elements do not have [alt] text",
+              "Links do not have a discernible name"
+            ]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 65,
+          "passedElements": 11,
+          "nonApplicableElements": 29,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "namesAndLabels": [
+              "Image elements do not have [alt] attributes",
+              "<input type=image> elements do not have [alt] text"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 63,
+          "passedElements": 11,
+          "nonApplicableElements": 28,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "namesAndLabels": [
+              "Image elements do not have [alt] attributes",
+              "<input type=image> elements do not have [alt] text",
+              "Links do not have a discernible name"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 65,
+          "passedElements": 11,
+          "nonApplicableElements": 29,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "namesAndLabels": [
+              "Image elements do not have [alt] attributes",
+              "<input type=image> elements do not have [alt] text"
+            ]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 60,
+          "passedElements": 12,
+          "nonApplicableElements": 26,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order",
+              "Some elements have a [tabindex] value greater than 0"
+            ],
+            "namesAndLabels": [
+              "Image elements do not have [alt] attributes",
+              "<input type=image> elements do not have [alt] text",
+              "Form elements do not have associated labels"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "hc7": {
+    "id": "hc7",
+    "onlineFirst": true,
+    "technology": {
+      "wappalyzer": {
+        "CDN": "Cloudflare",
+        "UI": { "Bootstrap": "3.3.7" },
+        "JavaScript": { "jQueryUI": "1.12.1", "jQuery": "3.1.1" }
+      }
+    },
+    "category": "health",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 57,
+          "passedElements": 16,
+          "nonApplicableElements": 17,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-*] attributes do not match their roles",
+              "[aria-hidden=”true”] elements contain focuseable descendants",
+              "ARIA input fields do not have accessible names",
+              "Elements with an ARIA [role] that require children to contain a specific [role] are missing some or all of those required children",
+              "[aria-*] attributes do not have valid values"
+            ],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 75,
+          "passedElements": 17,
+          "nonApplicableElements": 21,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 50,
+          "passedElements": 15,
+          "nonApplicableElements": 16,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-*] attributes do not match their roles",
+              "[aria-hidden=”true”] elements contain focuseable descendants",
+              "ARIA input fields do not have accessible names",
+              "Elements with an ARIA [role] that require children to contain a specific [role] are missing some or all of those required children",
+              "[aria-*] attributes do not have valid values"
+            ],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "<frame> or <iframe> elements do not have a title",
+              "Image elements do not have [alt] attributes",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 75,
+          "passedElements": 17,
+          "nonApplicableElements": 21,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 51,
+          "passedElements": 15,
+          "nonApplicableElements": 17,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-*] attributes do not match their roles",
+              "[aria-hidden=”true”] elements contain focuseable descendants",
+              "ARIA input fields do not have accessible names",
+              "Elements with an ARIA [role] that require children to contain a specific [role] are missing some or all of those required children",
+              "[aria-*] attributes do not have valid values"
+            ],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "hc8": {
+    "id": "hc8",
+    "onlineFirst": true,
+    "technology": {
+      "wappalyzer": {
+        "JavaScript": {
+          "requireJS": "2.3.5",
+          "jQuery": "1.12.4",
+          "jQueryUI": "1.10.4",
+          "jQueryMigrate": "1.4.1"
+        }
+      }
+    },
+    "category": "health",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 88,
+          "passedElements": 21,
+          "nonApplicableElements": 19,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-hidden=”true”] elements contain focuseable descendants"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "namesAndLabels": [
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 93,
+          "passedElements": 21,
+          "nonApplicableElements": 19,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-hidden=”true”] elements contain focuseable descendants"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "namesAndLabels": ["Links do not have a discernible name"]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 77,
+          "passedElements": 18,
+          "nonApplicableElements": 17,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-hidden=”true”] elements contain focuseable descendants",
+              "ARIA input fields do not have accessible names",
+              "ARIA toggle fields do not have accessible names"
+            ],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "tablesAndLists": [
+              "Lists do not contain only <li> elements and script supporting elements (<script> and <template>)"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 93,
+          "passedElements": 22,
+          "nonApplicableElements": 18,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-hidden=”true”] elements contain focuseable descendants"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "namesAndLabels": ["Links do not have a discernible name"]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 85,
+          "passedElements": 21,
+          "nonApplicableElements": 21,
+          "encounteredErrors": {
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Form elements do not have associated labels"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "hc9": {
+    "id": "hc9",
+    "onlineFirst": true,
+    "technology": {
+      "wappalyzer": {
+        "JavaScript": { "jQuery": "1.11.2" },
+        "UI": { "Bootstrap": "5.0.0" }
+      }
+    },
+    "category": "health",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 69,
+          "passedElements": 15,
+          "nonApplicableElements": 22,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-hidden=”true”] elements contain focuseable descendants"
+            ],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Image elements do not have [alt] attributes",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 79,
+          "passedElements": 16,
+          "nonApplicableElements": 21,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-hidden=”true”] elements contain focuseable descendants"
+            ],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 68,
+          "passedElements": 16,
+          "nonApplicableElements": 20,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-hidden=”true”] elements contain focuseable descendants",
+              "ARIA IDs are not unique"
+            ],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Form elements do not have associated labels",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 80,
+          "passedElements": 17,
+          "nonApplicableElements": 21,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-hidden=”true”] elements contain focuseable descendants"
+            ],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Links do not have a discernible name"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 68,
+          "passedElements": 13,
+          "nonApplicableElements": 24,
+          "encounteredErrors": {
+            "ARIA": [
+              "[aria-hidden=”true”] elements contain focuseable descendants"
+            ],
+            "namesAndLabels": [
+              "Buttons do not have an accessible name",
+              "Form elements do not have associated labels"
+            ],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ],
+            "internalizationAndLocalization": [
+              "<html> element does not have a [lang] attribute"
+            ],
+            "bestPractices": [
+              "[user-scalable=”no”] is used in the <meta name=”viewport”> element or the [maximum-scale] attribute is less than 5"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "hc10": {
+    "id": "hc10",
+    "onlineFirst": true,
+    "technology": {
+      "wappalyzer": {
+        "eCommerce": "WooCommerce",
+        "JavaScript": { "jQueryMigrate": "3.3.2", "jQuery": "3.5.1" },
+        "UI": { "Bootstrap": "3.3.7" }
+      }
+    },
+    "category": "health",
+    "pages": {
+      "home": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 94,
+          "passedElements": 24,
+          "nonApplicableElements": 16,
+          "encounteredErrors": {
+            "ARIA": ["ARIA input fields do not have accessible names"],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "namesAndLabels": [
+              "<frame> or <iframe> elements do not have a title"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ]
+          }
+        }
+      },
+      "catalog": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 97,
+          "passedElements": 26,
+          "nonApplicableElements": 16,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "namesAndLabels": [
+              "<frame> or <iframe> elements do not have a title"
+            ]
+          }
+        }
+      },
+      "product": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 94,
+          "passedElements": 24,
+          "nonApplicableElements": 16,
+          "encounteredErrors": {
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "namesAndLabels": [
+              "<frame> or <iframe> elements do not have a title",
+              "Links do not have a discernible name"
+            ],
+            "navigation": [
+              "Heading elements are not in a sequentially-descending order"
+            ]
+          }
+        }
+      },
+      "search": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 95,
+          "passedElements": 25,
+          "nonApplicableElements": 16,
+          "encounteredErrors": {
+            "ARIA": ["ARIA input fields do not have accessible names"],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "namesAndLabels": [
+              "<frame> or <iframe> elements do not have a title"
+            ]
+          }
+        }
+      },
+      "cart": {
+        "lighthouse": {
+          "date": 210326,
+          "score": 95,
+          "passedElements": 27,
+          "nonApplicableElements": 14,
+          "encounteredErrors": {
+            "ARIA": ["ARIA input fields do not have accessible names"],
+            "contrast": [
+              "Background and foreground colors do not have a sufficient contrast ratio"
+            ],
+            "namesAndLabels": [
+              "<frame> or <iframe> elements do not have a title"
+            ]
+          }
+        }
+      }
+    }
+  }
+}
